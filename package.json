@@ -1,0 +1,19 @@
+{
+  "name": "stockmanagementsystem",
+  "version": "1.0.0",
+  "description": "REST API backend for a stock management system",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo test",
+    "start": "node app.js"
+  },
+  "keywords": [
+    "stock"
+  ],
+  "author": "Rukudzo Dzapasi",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "firebase": "^8.10.0"
+  }
+}
