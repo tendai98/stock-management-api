@@ -1,0 +1,21 @@
+{
+	"command":"del-user",
+
+    "args":{
+
+	"data":{
+
+		"username": "testusername",
+                "employeeId": "1234567890-XSDFGHJKL",
+                "department" : "Accounting"
+
+	},
+
+	"authorization":{
+                "username":"EMAIL_ID",
+                "password": "PASSWORD"
+        }
+
+   }
+
+}

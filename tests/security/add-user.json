@@ -1,0 +1,18 @@
+{
+	"target":"sec-mod",
+	"cmd": "add-user",
+
+	"payload":{
+			"username" : "testuser",
+                	"password" : "password",
+                	"name": "TestUsername",
+                	"surname": "User",
+                	"dob": 1622712557655,
+			"nationalId": "123456789-AD"
+	},
+
+	"authorization":{
+		"username":"EMAIL_ID",
+		"password": "PASSWORD"
+	}
+}

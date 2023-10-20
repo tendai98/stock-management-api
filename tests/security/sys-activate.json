@@ -1,0 +1,13 @@
+{
+	"command":"sys-activate",
+
+   "args":{
+
+	"data":{
+		"email" : "EMAIL_ID",
+		"password" : "PASSWORD"
+	},
+
+	"authorization":{}
+    }
+}

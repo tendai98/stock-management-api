@@ -1,0 +1,21 @@
+{
+	"command":"set-stock",
+
+	"args":{
+		"data":{
+			"productName":"My Product3",
+			"condition":"Damaged-Stock",
+			"productId":"",
+			"quantity":500,
+			"manufactureDate":1623235745921,
+			"bestBefore":1623235934857,
+			"size":90
+		},
+
+		"authorization":{
+			"username" : "testusername",
+                        "password" : "password1234567890",
+			"authToken":"3cd01fca06b7c56d9edd1fff80e5efc81abb841bdd7cac8e9c246c245d46af4c"
+		}
+	}
+}

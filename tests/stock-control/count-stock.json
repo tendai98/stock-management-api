@@ -1,0 +1,15 @@
+{
+	"command":"count-stock",
+
+	"args":{
+		"data":{
+			"condition":"Damaged-Stock"
+		},
+
+		"authorization":{
+			"username" : "testusername",
+                        "password" : "password1234567890",
+			"authToken":"3cd01fca06b7c56d9edd1fff80e5efc81abb841bdd7cac8e9c246c245d46af4c"
+		}
+	}
+}

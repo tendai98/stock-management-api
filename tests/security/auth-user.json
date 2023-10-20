@@ -1,0 +1,17 @@
+{
+	"command":"auth-user",
+
+	"args":{
+
+		"data":{
+
+		"username" : "testusername",
+		"password" : "password",
+		"employeeId": "1234567890-XSDFGHJKL",
+		"department" : "Accounting"
+
+		},
+
+		"authorization":{}
+    }
+}

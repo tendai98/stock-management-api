@@ -1,0 +1,16 @@
+{
+	"command":"remove-order",
+
+	"args":{
+		"data":{
+			"orderType":"Pending-Orders",
+			"customerId":"CUSTOMER-ID-5acb94cdf57548a1"
+		},
+
+		"authorization":{
+			"username" : "testusername",
+                        "password" : "password1234567890",
+			"authToken":"3cd01fca06b7c56d9edd1fff80e5efc81abb841bdd7cac8e9c246c245d46af4c"
+		}
+	}
+}
